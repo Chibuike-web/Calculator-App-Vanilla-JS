@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"outDir": "./js", // Output compiled JavaScript files to "js" folder
+		"rootDir": "./ts", // Specify "ts" folder as the root of TypeScript files
+		"module": "ESNext", // (or "ESNext" if using ESM)
+		"target": "ES6",
+		"strict": true
+	}
+}
